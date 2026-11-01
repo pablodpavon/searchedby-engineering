@@ -1,6 +1,6 @@
 # Security review
 
-On 30 Oct 2026, before opening the beta wider, a Claude Code session in the cloud ran an independent static review of the web app and the deploy scripts. It worked from the repository only, with no access to the server, Each finding came with a local proof of concept, a test, or a note that it was only checked statically, and the report lists what it looked for and did not find.
+On 30 Oct 2026, before opening the beta wider, a Claude Code session in the cloud ran an independent static review of the web app and the deploy scripts. It worked from the repository only, with no access to the server. Each finding came with a local proof of concept, a test, or a note that it was only checked statically, and the report lists what it looked for and did not find.
 
 ## Result
 

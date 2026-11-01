@@ -108,7 +108,7 @@ python -m shiptools.parity ./app server_md5.txt --include app tests
 # PARITY OK: 197/197 identical
 ```
 
-The tests run on Python 3.12 and 3.13, the same rule the product follows.
+The tests run on Python 3.12 and 3.13 in CI, the same rule the product follows.
 
 ## What is not here, on purpose
 

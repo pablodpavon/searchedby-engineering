@@ -12,7 +12,7 @@ Each term gets a choice, its alternatives, the evidence, and a confidence level 
 
 ## 3. Native review
 
-- Review packages are written in the reviewer's language, as numbered questions.
+- Review packages are numbered questions grouped by screen, in a language the reviewer reads. One reviewer reads only Hebrew, so that package is entirely in Hebrew.
 - Answers are integrated into a new glossary version, counted ("17 confirm, 24 change, 7 doubtful" in one Hebrew round).
 - When two reviewers disagree with each other or with production, the conflicts go to me as a short list of decisions.
 - A language stays hidden until its first native review. After that, new phrases without review are listed for the next round, and I decide whether they can go out before it.

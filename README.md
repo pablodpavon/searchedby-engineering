@@ -53,7 +53,7 @@ All figures come from my own project records. Dates matter because the numbers m
 | Automated tests | 2,684 pipeline + 1,184 web app (about 3,800) | 1 Nov 2026 |
 | Python versions every suite must pass on | 2 | since 28 Oct 2026 |
 | Files where server md5 = local md5 after a deploy | 197 of 197 | 30 Oct 2026 |
-| Numbered decisions in the project log | 155 | 1 Nov 2026 |
+| Numbered decisions in my decision log (all projects, SearchedBy included) | 155 | 1 Nov 2026 |
 | Deploy checklists and deploy records written | over 70 | 1 Nov 2026 |
 | Findings in the independent security review | 14 (2 high, 6 medium, 6 low) | 30 Oct 2026 |
 | Security tests run on the server after the fix deploy | 35 passed | 30 Oct 2026 |
